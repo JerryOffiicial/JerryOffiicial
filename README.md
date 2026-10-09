@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**JerryOffiicial/JerryOffiicial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3><code>jerry@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" alt="Contribution graph" />
 
-Here are some ideas to get you started:
+<br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3><code>jerry@github ~ $ whoami</code></h3>
+<table>
+  <tr>
+    <td valign="top"><img src="./jerry-ascii.svg" width="370" alt="ASCII portrait of Jerry" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" alt="About Jerry" /></td>
+  </tr>
+</table>
+
+<br>
+
+<h3><code>jerry@github ~ $ cat links.txt</code></h3>
+<a href="https://jerry-portfolio-sepia.vercel.app/"><code>portfolio</code></a> ·
+<a href="https://www.linkedin.com/in/jerryson-gunaseelan-281b76379"><code>linkedin</code></a> ·
+<a href="https://github.com/JerryOffiicial?tab=repositories"><code>repositories</code></a>
+
+</div>

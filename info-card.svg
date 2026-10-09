@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 442" width="490" height="442">
+<style>text { font-family: ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size: 14px; }
+  .ln { opacity: 0; animation: in .45s ease-out forwards; }
+  @keyframes in { from { opacity: 0; transform: translateX(-8px); } to { opacity: 1; transform: none; } }
+</style>
+<rect width="490" height="442" rx="8" fill="#0d1117" stroke="#30363d"/>
+<rect width="490" height="30" rx="8" fill="#161b22"/><rect y="22" width="490" height="8" fill="#161b22"/>
+<circle cx="18" cy="15" r="5" fill="#ff5f56"/><circle cx="36" cy="15" r="5" fill="#ffbd2e"/><circle cx="54" cy="15" r="5" fill="#27c93f"/>
+<text x="245.0" y="20" text-anchor="middle" fill="#8b949e" style="font-size:12px">neofetch — jerry@github</text>
+<g class="ln" style="animation-delay:0.25s"><text x="22" y="56"><tspan fill="#39d353" font-weight="bold">jerry</tspan><tspan fill="#c9d1d9">@</tspan><tspan fill="#39d353" font-weight="bold">github</tspan></text><text x="22" y="70" fill="#30363d">--------------------</text></g>
+<g class="ln" style="animation-delay:0.37s"><text x="22" y="88"><tspan fill="#39d353" font-weight="bold">Name</tspan><tspan fill="#c9d1d9">:</tspan></text><text x="114" y="88" fill="#c9d1d9">Gunaseelan Jerryson</text></g>
+<g class="ln" style="animation-delay:0.49s"><text x="22" y="112"><tspan fill="#39d353" font-weight="bold">Role</tspan><tspan fill="#c9d1d9">:</tspan></text><text x="114" y="112" fill="#c9d1d9">Full Stack Developer</text></g>
+<g class="ln" style="animation-delay:0.61s"><text x="22" y="136"><tspan fill="#39d353" font-weight="bold">Location</tspan><tspan fill="#c9d1d9">:</tspan></text><text x="114" y="136" fill="#c9d1d9">Kandy, Sri Lanka</text></g>
+<g class="ln" style="animation-delay:0.73s"><text x="22" y="160"><tspan fill="#39d353" font-weight="bold">Now</tspan><tspan fill="#c9d1d9">:</tspan></text><text x="114" y="160" fill="#c9d1d9">Building with Next.js &amp; TypeScript</text></g>
+<g class="ln" style="animation-delay:0.85s"><text x="22" y="184"><tspan fill="#39d353" font-weight="bold">Stack</tspan><tspan fill="#c9d1d9">:</tspan></text><text x="114" y="184" fill="#c9d1d9">React · Node/Express · MongoDB</text></g>
+<g class="ln" style="animation-delay:0.97s"><text x="22" y="208"></text><text x="114" y="208" fill="#c9d1d9">Next.js · TypeScript · Laravel/PHP</text></g>
+<g class="ln" style="animation-delay:1.09s"><text x="22" y="232"><tspan fill="#39d353" font-weight="bold">Data</tspan><tspan fill="#c9d1d9">:</tspan></text><text x="114" y="232" fill="#c9d1d9">SQL · MongoDB · Supabase · Firebase</text></g>
+<g class="ln" style="animation-delay:1.21s"><text x="22" y="256"><tspan fill="#39d353" font-weight="bold">Also</tspan><tspan fill="#c9d1d9">:</tspan></text><text x="114" y="256" fill="#c9d1d9">.NET · REST APIs · Tailwind</text></g>
+<g class="ln" style="animation-delay:1.33s"><text x="22" y="280"><tspan fill="#39d353" font-weight="bold">Projects</tspan><tspan fill="#c9d1d9">:</tspan></text><text x="114" y="280" fill="#c9d1d9">MERN Auth (JWT + OTP reset)</text></g>
+<g class="ln" style="animation-delay:1.45s"><text x="22" y="304"></text><text x="114" y="304" fill="#c9d1d9">MERN movie admin w/ AI descriptions</text></g>
+<g class="ln" style="animation-delay:1.57s"><text x="22" y="328"></text><text x="114" y="328" fill="#c9d1d9">DevEvent — Next.js event hub</text></g>
+<g class="ln" style="animation-delay:1.69s"><text x="22" y="352"><tspan fill="#39d353" font-weight="bold">Achieve</tspan><tspan fill="#c9d1d9">:</tspan></text><text x="114" y="352" fill="#c9d1d9">Pull Shark x3 · Pair Extraordinaire</text></g>
+<g class="ln" style="animation-delay:1.81s"><text x="22" y="376"><tspan fill="#39d353" font-weight="bold">Web</tspan><tspan fill="#c9d1d9">:</tspan></text><text x="114" y="376" fill="#c9d1d9">jerry-portfolio-sepia.vercel.app</text></g>
+<g class="ln" style="animation-delay:1.93s"><rect x="22" y="400" width="22" height="14" rx="2" fill="#161b22"/><rect x="48" y="400" width="22" height="14" rx="2" fill="#0e4429"/><rect x="74" y="400" width="22" height="14" rx="2" fill="#006d32"/><rect x="100" y="400" width="22" height="14" rx="2" fill="#26a641"/><rect x="126" y="400" width="22" height="14" rx="2" fill="#39d353"/><rect x="152" y="400" width="22" height="14" rx="2" fill="#69f0a0"/><rect x="178" y="400" width="22" height="14" rx="2" fill="#58a6ff"/><rect x="204" y="400" width="22" height="14" rx="2" fill="#c9d1d9"/></g>
+</svg>
