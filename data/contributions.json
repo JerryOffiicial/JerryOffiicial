@@ -1,9 +1,9 @@
 {
  "username": "JerryOffiicial",
- "fetched_at": "2026-11-26T08:12:30+00:00",
- "total": 1538,
- "current_streak": 52,
- "longest_streak": 52,
+ "fetched_at": "2026-11-27T08:24:53+00:00",
+ "total": 1543,
+ "current_streak": 53,
+ "longest_streak": 53,
  "best_day": {
   "date": "2026-07-18",
   "count": 29
@@ -21,7 +21,7 @@
   "2026-08": 83,
   "2026-09": 128,
   "2026-10": 127,
-  "2026-11": 132
+  "2026-11": 137
  },
  "days": [
   {
@@ -1866,6 +1866,11 @@
   },
   {
    "date": "2026-11-26",
+   "level": 2,
+   "count": 5
+  },
+  {
+   "date": "2026-11-27",
    "level": 1,
    "count": 3
   }
